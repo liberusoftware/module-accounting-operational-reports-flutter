@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-operational-reports-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-operational-reports",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_operational_reports_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/operational-reports.md",
+  "presentationPlan": "projects/accounting/flutter/operational-reports.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
